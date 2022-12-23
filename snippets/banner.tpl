@@ -1,0 +1,1 @@
+{block name='snippets-banner'}{/block}

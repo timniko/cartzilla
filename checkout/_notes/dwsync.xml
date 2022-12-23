@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="inc_billing_address_form.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084121640000000" remote="133084049400000000" />
+<file name="index.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084350100000000" remote="133084278000000000" />
+<file name="inc_steps.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084130320000000" remote="133084057800000000" />
+<file name="step0_login_or_register.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084081600000000" remote="133084009200000000" />
+<file name="inc_shipping_address.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133093705500000000" remote="133093633200000000" />
+<file name="coupon_form.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133035714020000000" remote="133083943800000000" />
+<file name="credit_form.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133035714040000000" remote="133083943800000000" />
+<file name="customer_shipping_address.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084028940000000" remote="133083956400000000" />
+<file name="customer_shipping_contact.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084327240000000" remote="133084255200000000" />
+<file name="inc_billing_address.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133035714040000000" remote="133083943800000000" />
+<file name="step3_shipping_options.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084202200000000" remote="133084131600000000" />
+<file name="step1_edit_customer_address.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084122820000000" remote="133084050600000000" />
+<file name="step4_payment_additional.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084081220000000" remote="133084009200000000" />
+<file name="step4_payment_options.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133035714020000000" remote="133084009200000000" />
+<file name="step5_confirmation.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084356100000000" remote="133084284000000000" />
+<file name="step6_init_payment.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133035714020000000" remote="133084009200000000" />
+<file name="inc_payment_methods.tpl" server="fragdochtim.es/public_html/tnt-ai.com/" local="133084203760000000" remote="133084131600000000" />
+</dwsync>
