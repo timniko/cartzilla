@@ -108,8 +108,8 @@
             <Setting Description="Pinterest-Link" Key="pinterest" Type="text" Value=""/>
             <Setting Description="Skype-Link" Key="skype" Type="text" Value=""/>
 						<Setting Description="WhatsApp-Link" Key="whatsapp" Type="text" Value=""/>
-						<Setting Description="Zahlungsmöglichkeiten" Key="zahlungsmethoden_bild" Type="upload" Value="cards-alt.png" maxFileSize="6144" showPreview="true" allowedFileExtensions="['jpg','png']" accept="image/*" target="" targetFileName="cards-alt.png"/>
-						<Setting Description="Footer Logo" Key="footer_logo" Type="upload" Value="footer-logo-light.png" maxFileSize="6144" showPreview="true" allowedFileExtensions="['jpg','png']" accept="image/*" target="" targetFileName="footer-logo-light.png"/>
+						<Setting Description="Zahlungsmöglichkeiten" Key="zahlungsmethoden_bild" Type="upload" Value="cards-alt.png" maxFileSize="6144" showPreview="true" allowedFileExtensions="['jpg','png']" accept="image/*" target="img/" targetFileName="cards-alt.png"/>
+						<Setting Description="Footer Logo" Key="footer_logo" Type="upload" Value="footer-logo-light.png" maxFileSize="6144" showPreview="true" allowedFileExtensions="['jpg','png']" accept="image/*" target="img/" targetFileName="footer-logo-light.png"/>
         </Section>
     </Settings>
     <Minify>
