@@ -4,7 +4,7 @@
     <Author>Tim Niko Tegtmeyer</Author>
     <URL>https://tnt-ai.com</URL>
     <Preview>preview.png</Preview>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <MinShopVersion>5.0.0</MinShopVersion>
     <MaxShopVersion>5.2.0</MaxShopVersion>
 	<Framework>Bootstrap5</Framework>
