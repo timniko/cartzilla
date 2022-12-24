@@ -1,4 +1,4 @@
-**CartZilla Premium Template** -> _Vollautomatische Installation_
+**CartZilla Template** -> _Vollautomatische Installation_
 
 **Schauen Sie sich live einen [CartZilla Shop](https://strongboc.com/) an**
 
