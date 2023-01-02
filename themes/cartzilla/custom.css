@@ -331,6 +331,11 @@
   color: #525252;
   font-size: 0.875rem;
   line-height: 1.5;
+  position: fixed;
+  z-index: 1050;
+  bottom: 2rem;
+  left: 1rem;
+  right: 1rem;
 }
 #consent-manager, #consent-manager *, #consent-manager *::before, #consent-manager *::after {
   box-sizing: border-box;
