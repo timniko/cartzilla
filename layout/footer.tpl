@@ -112,7 +112,7 @@
               <div class="text-nowrap mb-4">
               	{if isset($Einstellungen.template.footer.footer_logo) && $Einstellungen.template.footer.footer_logo !== ''}
                   <a class="d-inline-block align-middle mt-n1 me-3" href="{$ShopURL}">
-                    <img class="d-block" src="{$ShopURL}/templates/cartzilla/{$Einstellungen.template.footer.footer_logo}" width="117" alt="{$Einstellungen.global.global_shopname}">
+                    <img class="d-block" src="{$ShopURL}/templates/cartzilla/img/{$Einstellungen.template.footer.footer_logo}" width="117" alt="{$Einstellungen.global.global_shopname}">
                   </a>
                 {/if}
                 <div class="btn-group dropdown disable-autohide">
@@ -167,7 +167,7 @@
                   {/block}
                 {/if}
                 {if isset($Einstellungen.template.footer.zahlungsmethoden_bild) && $Einstellungen.template.footer.zahlungsmethoden_bild !== ''}
-                	<img class="d-inline-block" src="{$ShopURL}/templates/cartzilla/{$Einstellungen.template.footer.zahlungsmethoden_bild}" width="187" alt="{lang key='paymentOptions' section='global'}">
+                	<img class="d-inline-block" src="{$ShopURL}/templates/cartzilla/img/{$Einstellungen.template.footer.zahlungsmethoden_bild}" width="187" alt="{lang key='paymentOptions' section='global'}">
                 {/if}
               </div>
             {/block}
