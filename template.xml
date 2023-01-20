@@ -6,7 +6,7 @@
     <Preview>preview.png</Preview>
     <Version>1.0.3</Version>
     <MinShopVersion>5.0.0</MinShopVersion>
-    <MaxShopVersion>5.2.0</MaxShopVersion>
+    <MaxShopVersion>5.3.0</MaxShopVersion>
 	<Framework>Bootstrap5</Framework>
     <Description>CartZilla Template für JTL Shop5.</Description>
     <Settings>
